@@ -1,5 +1,5 @@
 # 💫 About Me:
-Holaa IM YUKAA <br>A passionate frontend developer from Indonesia who loves building modern, interactive, and user-friendly web experiences.
+Holaa IM YUKAA <br>A passionate FullStack developer from Indonesia who loves building modern, interactive, and user-friendly web experiences.
 
 
 ## 🌐 Socials:
