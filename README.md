@@ -18,13 +18,20 @@
 
   # 💫 Holaa, I'm Yukaa!
   **A passionate FullStack developer from Indonesia who loves building modern, interactive, and user-friendly web experiences.**
+- 🔭 Currently building web & mobile apps with **TypeScript** and **Laravel**
+- 🌱 Learning more about scalable backend architecture & cloud deployment
+- 💬 Ask me about PHP, TypeScript, React, or anything FullStack
+- ⚡ Fun fact: I enjoy turning messy UI ideas into clean, functional interfaces
+- 📫 Reach me via email or Instagram above — always open to collabs!
 
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/irumiina)
   [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:vsgabcd48@gmail.com)
 
 </div>
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="48%">
+</div>
 
 ## 💻 Tech Stack
 
@@ -59,26 +66,11 @@
 <br>
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=yungkaii&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" alt="Top Languages" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=yungkaii&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="48%" alt="Top Contributed Repo" />
 </div>
+
 
 ---
 
-## 🏆 Trophies & Contributions
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yungkaii&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yungkaii/yungkaii/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yungkaii/yungkaii/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yungkaii/yungkaii/output/github-snake-dark.svg">
-  </picture>
-</div>
-
----
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
@@ -86,6 +78,9 @@
   <img src="https://komarev.com/ghpvc/?username=yungkaii&icon=0&color=777BB4&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
+
+
 <div align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF1493&height=110&section=footer"
    </div>
+
