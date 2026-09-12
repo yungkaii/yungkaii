@@ -55,7 +55,13 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
----
+
+<div align="center">
+
+  ![snake gif](https://github.com/yungkaii/yungkaii/blob/output/github-snake-dark.svg)
+
+</div>
+
 
 ## 📊 GitHub Analytics
 
