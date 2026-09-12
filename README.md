@@ -1,27 +1,91 @@
-# 💫 About Me:
-Holaa IM YUKAA <br>A passionate FullStack developer from Indonesia who loves building modern, interactive, and user-friendly web experiences.
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF1493&height=220&section=header&text=YUKAA%20%F0%9F%92%AB&fontSize=65&fontColor=ffffff&fontAlignY=34&desc=FullStack%20Developer%20%7C%20Indonesia&descSize=18&descAlignY=55&animation=fadeIn">
+</div>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/irumiina) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vsgabcd48@gmail.com) 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=560&lines=Hai%2C+aku+YUKAA+%F0%9F%91%8B;FullStack+Developer+%F0%9F%9A%80;Dari+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Open+for+collaboration!+%F0%9F%A4%9D"
+</div>
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=yungkaii&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=yungkaii&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=yungkaii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yungkaii&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://media.tenor.com/GQAsycjoZG8AAAAi/scuba-scuba-cat.gif" width="180" alt="Scuba Cat Dance"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://media.tenor.com/GQAsycjoZG8AAAAi/scuba-scuba-cat.gif" width="180" alt="Scuba Cat Dance"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://media.tenor.com/GQAsycjoZG8AAAAi/scuba-scuba-cat.gif" width="180" alt="Scuba Cat Dance"/>
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+  # 💫 Holaa, I'm Yukaa!
+  **A passionate FullStack developer from Indonesia who loves building modern, interactive, and user-friendly web experiences.**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yungkaii&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/irumiina)
+  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:vsgabcd48@gmail.com)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=yungkaii&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <br>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <br>
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=yungkaii&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=yungkaii&theme=tokyonight&hide_border=false" width="48%" alt="GitHub Streak" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=yungkaii&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" alt="Top Languages" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=yungkaii&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="48%" alt="Top Contributed Repo" />
+</div>
+
+---
+
+## 🏆 Trophies & Contributions
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yungkaii&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yungkaii/yungkaii/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yungkaii/yungkaii/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yungkaii/yungkaii/output/github-snake-dark.svg">
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=yungkaii&icon=0&color=777BB4&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+<div align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF1493&height=110&section=footer"
+   </div>
